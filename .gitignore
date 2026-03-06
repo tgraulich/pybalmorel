@@ -7,6 +7,15 @@ __pycache__
 output
 config
 build
+*.err
+*.out
+*.log
+examples/weather_year_env/
+results/
+Demand_model_Bal_ready_csv_Master/
+multiweather_other_inputs/
+Polyneikis Kanellas - Balmorel_new_VRE_data/
+Timeseries_results/
 
 # This one is necessary to do tests
 !tests/output/.keepoutputfolder
